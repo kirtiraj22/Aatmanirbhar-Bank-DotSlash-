@@ -82,7 +82,7 @@ const TransferMoney = () => {
       </div>
 
       <div className="transfer-section-image">
-        <img src="/assets/4.svg" alt=""/>
+        <img src="/assets/register2.png" alt=""/>
       </div>
     </div>
   );
