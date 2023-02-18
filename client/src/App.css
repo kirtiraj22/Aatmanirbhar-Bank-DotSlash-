@@ -1,0 +1,10 @@
+:root{
+    --main-bg: #030f19;
+    --primary-color: #ffffff;
+    --secondary-color : #3fd371;
+}
+
+.app{
+    background-color: var(--main-bg);
+    color: var(--primary-color);
+}

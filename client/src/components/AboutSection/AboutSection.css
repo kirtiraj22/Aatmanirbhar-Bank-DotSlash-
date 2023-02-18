@@ -1,0 +1,9 @@
+
+.about-section{
+    background-color: var(--main-bg);
+    color: var(--primary-color);
+}
+
+.aboutLeft{
+    /* background: var(--main-bg); */
+}
