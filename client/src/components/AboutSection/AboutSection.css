@@ -1,9 +1,27 @@
-
-.about-section{
+.about-section {
     background-color: var(--main-bg);
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     color: var(--primary-color);
 }
 
-.aboutLeft{
-    /* background: var(--main-bg); */
+
+
+.question {
+    font-size: 3rem;
+    color: var(--secondary-color);
+    text-align: center;
+    font-weight: 600;
+}
+
+.about-section-container {
+    width: 80%;
+    align-items: center;
+}
+
+.answer {
+    font-size: 25px;
 }
