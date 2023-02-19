@@ -78,6 +78,21 @@ const AboutSection = () => {
         <p className="answer">Aatmanirbhar Bank is a decentralized bank that operates on a peer-to-peer network, without any centralized control. It empowers individuals to transact with each other directly, without intermediaries, while ensuring privacy and security through blockchain technology. Aatmanirbhar Bank is committed to promoting financial independence and self-reliance among its users.</p>
         <p className="question">Traditional VS Decentralized bank </p>
         <p className="answer">Traditional banks are centralized financial institutions that rely on intermediaries to process and verify transactions. They are subject to government regulations and may charge high fees. Decentralized banks, on the other hand, operate on a peer-to-peer network without intermediaries. They use blockchain technology to ensure security and transparency, and may offer lower fees and greater financial freedom. Decentralized banks promote financial independence and challenge the dominance of traditional financial systems.Decentralized banks prioritize user privacy and security by utilizing encryption and digital signatures. They also offer fast transaction processing times and 24/7 accessibility, making them appealing to users seeking financial autonomy. Traditional banks may offer greater financial stability but may limit user control and flexibility.</p>
+
+        <p className="question">What features do we offer?</p>
+
+        <p className="answer">We offer the following features:
+          <ol>
+            <li>- Peer-to-peer transactions without intermediaries</li>        
+            <li>- Secure, encrypted and transparent transactions through blockchain technology</li>        
+            <li>- Decentralized governance and decision-making</li>        
+            <li>- Lower fees and charges compared to traditional banks</li>        
+            <li>- Fast transaction processing times and 24/7 accessibility</li>        
+            <li>- Financial independence and self-reliance through the ability to control one own funds and investments
+            Community-driven support </li>and development, with users contributing to the platform growth and evolution.
+          </ol>
+        </p>
+
         {/* </div> */}
       </div>
     </div>
