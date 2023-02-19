@@ -98,7 +98,7 @@ contract Banking {
     ) public payable {
         if (_creator.balance >= _amount / 1000000000000000000 + 1) {
             accounts[_serial].balance += _amount / 1000000000000000000;
-            bankBalance += _amount / 100000000000000000 0;
+            bankBalance += _amount / 1000000000000000000;
             transacNum++;
 
             transactions[transacNum] = Transaction(
