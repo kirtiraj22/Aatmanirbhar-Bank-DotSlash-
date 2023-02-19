@@ -80,3 +80,28 @@ Install dependencies
     npm install -g truffle
 ```
 
+## screenshots
+home page of website : 
+
+![main section](screenshots/main.png)
+
+about section of website : 
+
+![about](screenshots/about.png)
+
+Registration page 
+![register](screenshots/register.png)
+
+Filling up details of registration page 
+![registration 2](screenshots/register2.png)
+
+payment through metamask
+![payment](screenshots/transaction.png)
+
+showing registered accounts 
+![registered](screenshots/registered%20account.png)
+
+Details of account 
+![details](screenshots/display.png)
+
+
